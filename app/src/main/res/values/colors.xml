@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="primary_color">#EE4154</color>
+    <color name="primary_color_dark">#DA343F</color>
+    <color name="accent_color">#53C3C8</color>
+    <color name="nav_drawer_bg_color">#EEEEEE</color>
+    <color name="primary_text_color">#333333</color>
+    <color name="secondary_text_color">#666666</color>
+
+
+</resources>
